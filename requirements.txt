@@ -1,6 +1,6 @@
 gTTS==2.2.4
 moviepy==1.0.3
-mutagen==1.45.1
+mutagen==1.46.0
 playwright==1.22.0
 praw==7.6.0
 python-dotenv==0.20.0
